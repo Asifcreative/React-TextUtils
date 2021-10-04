@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://asifcreative.github.io/textutil/",
+  "homepage": "https://asifcreative.github.io/TextUtils/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
